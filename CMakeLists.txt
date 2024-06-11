@@ -6,4 +6,6 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
 add_executable(Cpp_practice
-        main.cpp)
+        main.cpp
+        MyString.cpp
+        MyString.h)
